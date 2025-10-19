@@ -147,3 +147,4 @@ kubectl auth can-i create pods --as=system:serviceaccount:easypay:dev-user -n ea
 
 # Test backup/restore
 ./scripts/etcd-backup.sh
+dd
